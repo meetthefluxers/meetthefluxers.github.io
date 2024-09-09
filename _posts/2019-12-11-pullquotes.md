@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  Pullquotes
+title:  Finding our Purpose
 categories: [HTML,Code]
-excerpt: In graphic design, a pull quote (also known as a lift-out pull quote) is a key phrase, quotation, or excerpt that has been pulled from an article and used as a page layout graphic element, serving to entice readers into the article or to highlight a key topic.
+excerpt:
 ---
 
-In graphic design, a pull quote (also known as a lift-out pull quote) is a key phrase, quotation, or excerpt that has been pulled from an article and used as a page layout graphic element, serving to entice readers into the article or to highlight a key topic. {% include pullquote.html quote="It is typically placed in a larger or distinctive typeface and on the same page." %} Pull quotes are often used in magazine and newspaper articles, annual reports, and brochures, as well as on the web. They can add visual interest to text-heavy pages with few images or illustrations.
+Volunteer members of the FLUXNET Outreach Working Group first brainstormed the idea for a podcast in May, 2023. Our little group of flux scientists wanted to share the opportunities and challenges associated with flux science to stakeholders, researchers searching for inspiration, and curious minds in the general public. In true scientific fashion, countless hours were spent exploring every aspect of what this podcast would involve. We asked questions about the perfect format, target audience, ideal outcomes, individual roles, expected timelines, budgets, and the characteristics of story-worthy topics. After months of deliberation, Meet the Fluxers was born.{% include pullquote.html quote="Our podcast mission is to bridge the gap between flux scientists and stakeholders." %}
 
-Placement of a pull quote on a page may be defined in a publication's or website's style guide. Such a typographic device may or may not be aligned with a column on the page. Some designers, for example, choose not to align the quote. In that case, the quotation cuts into two or more columns, as in the example shown. Because the pull quote invites the reader to read about the highlighted material, the pull quote should appear before the text it cites and, generally, fairly close to it.
+One year into planning and steps away from recording our first episode, we still don't have all the answers, but perhaps we have found our purpose. Our ambition with this project is to highlight how stakeholders are engaging with flux science; educate listeners on how this work is communicated and conceptualized; and build non-technical working language around these topics. Meet the Fluxers is especially eager to connect with community leaders; policymakers and funding agencies; early career researchers; and people from diverse political and social backgrounds.
 
-Pull quotes need not be a verbatim copy of the text being quoted; depending on a publication's house style, pull quotes may be abbreviated for space or paraphrased for clarity, with or without indication.
+The podcast is uniquely defined by its rotating cast of co-hosts, flux experts, and stakeholders. Not only does this encourage more widespread involvement from the flux community, but also, it guides listeners towards an unbiased understanding of flux science as it pertains to the real world. Meet the Fluxers embraces diverse perspectives from listeners and guests, while rejecting coded language. 
 
-A disadvantage of pull quotes as a design element is that they can disrupt the reading process of readers invested in reading the text sequentially by drawing attention to ghost fragments out of context. At the other extreme, when pull quotes are used to break up what would otherwise be a formless wall of text, pull quote can serve as visual landmarks to help the reader maintain a sense of sequence and place.
+Listen and share this podcast in your professional circles, outreach networks, and wherever else makes sense to you. Visit our "Contact" page if you or someone you know would be an interesting guest on the podcast. Thank you for engaging!
