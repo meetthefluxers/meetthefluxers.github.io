@@ -9,10 +9,7 @@ name: Meet the Fluxers
 author:
 
 # Short bio or description (displayed in the header)
-description: "\
-  A podcast that bridges the gap between \
-  eddy covariance flux scientists and stakeholders\
-  "
+description: A flux science podcast
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /images/logo.png
