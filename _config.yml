@@ -6,12 +6,10 @@
 name: Meet the Fluxers
 
 # Name of the author
-author: Jess Richardson, Jason Kelley, Maoya Bassiouni, Robert Shortt, Emma Reich
+author:
 
 # Short bio or description (displayed in the header)
-description: >
-A podcast that bridges the gap between 
-eddy covariance flux scientists and stakeholders
+description: A podcast that bridges the gap between\neddy covariance flux scientists and stakeholders
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /images/logo.png
