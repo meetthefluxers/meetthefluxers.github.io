@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Finding our Purpose
-categories: [HTML,Code]
+categories:
 excerpt: Our podcast mission is to bridge the gap between flux scientists and stakeholders
 ---
 
