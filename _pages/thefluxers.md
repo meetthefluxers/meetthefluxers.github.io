@@ -5,10 +5,10 @@ permalink: /thefluxers/
 ---
 
 
-<figure>
+<center><figure>
   <img src="/images/jess.png" alt="Jessica Richardson">
-  <figcaption>Jessica Richardson</figcaption>
-</figure>
+  <figcaption><b>Jessica Richardson</b></figcaption>
+</figure></center>
 Jess is an early career flux scientist and is editor for Season One. She writes the environmental blog, [definearth](https://definearth.com/welcome-to-definearth/), and a wetland-focused newsletter called [Peatmail](https://peatmail.substack.com/).
 
 
