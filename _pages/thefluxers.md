@@ -16,3 +16,8 @@ permalink: /thefluxers/
 
 ![Emma Reich](images/emma.png "Emma Reich") [Emma](https://egreich.github.io/aboutme) is a Ph.D. candidate at Northern Arizona University and coordinates creative initiatives in the FLUXNET Outreach Working Group. Their valuable insights on teamwork and episode content is crucial in making podcast development productive.
 
+![Nick Lee](images/nick.png "Nick Lee") [Nick](https://sungchinglee.weebly.com/) is research group leader at the Max Planck Institute for Biogeochemistry and coordinates multi-language educational materials in the FLUXNET Outreach Working Group. He helped generate the original idea for the podcast back in 2023.
+
+
+
+
