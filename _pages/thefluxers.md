@@ -1,29 +1,18 @@
 ---
 layout: page
-title: The Fluxers
+title: About the Co-Hosts
 permalink: /thefluxers/
 ---
 
-[Reverie](https://github.com/amitmerchant1990/reverie) is a Jekyll theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
 
-This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
+![Jessica Richardson](images/jess.png "Jessica Richardson") Jess is an early career flux scientist and is editor for Season One. She writes the environmental blog, [definearth](https://definearth.com/welcome-to-definearth/), and a wetland-focused newsletter called [Peatmail](https://peatmail.substack.com/).
 
-## Features
 
-- Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
-- Fully responsive and mobile optimized base theme
-- Sass/Coffeescript support using Jekyll 2.0
-- Free hosting on your GitHub Pages user site
-- All the SEO goodies comes in-built
-- Markdown blogging
-- Syntax highlighting using Pygments
-    - [Dracula syntax theme](https://draculatheme.com/) included
-- Disqus commenting
-- Google Analytics integration
-- Fuzzy search across blog posts
-- Pagination of posts works out-of-the-box.
-- Categorize posts out-of-the box
-- RSS Feed
-- In-built sitemap
+![Jason Kelley](images/jason.png "Jason Kelley") [Jason](https://asperatusconsulting.com/about/) is principal scientist at Asperatus Consulting and leads the FLUXNET Outreach Working Group. He is script writer for Season One and was instrumental in motivating the group to record its first ever episode.
 
-Learn more about it [here](https://github.com/amitmerchant1990/reverie) on how to get started.
+![Maoya Bassiouni](images/maoya.png "Maoya Bassiouni") [Maoya](https://research.maoya.io/) is an early career scientist at the University of California, Berkeley and also leads the FLUXNET Outreach Working Group. She is creative director for Season One and developed the original idea for the podcast in 2023.
+
+![Robert Shortt](images/robert.png "Robert Shortt") Robert is a Ph.D. candidate at the University of California, Berkeley and coordinates creative initiatives in the FLUXNET Outreach Working Group. By providing valuable feedback about connecting with stakeholders and episode ideas, Robert molds podcast content into a better listener experience.
+
+![Emma Reich](images/emma.png "Emma Reich") [Emma](https://egreich.github.io/aboutme) is a Ph.D. candidate at Northern Arizona University and coordinates creative initiatives in the FLUXNET Outreach Working Group. Their valuable insights on teamwork and episode content is crucial in making podcast development productive.
+
