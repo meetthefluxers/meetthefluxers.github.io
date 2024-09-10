@@ -5,7 +5,7 @@ permalink: /thefluxers/
 ---
 
 
-![Jessica Richardson](/images/jess.png "Jessica Richardson") Jess is an early career flux scientist and is editor for Season One. She writes the environmental blog, [definearth](https://definearth.com/welcome-to-definearth/), and a wetland-focused newsletter called [Peatmail](https://peatmail.substack.com/).
+<img align="left" width="100" height="100" src="/images/jess.png"> Jess is an early career flux scientist and is editor for Season One. She writes the environmental blog, [definearth](https://definearth.com/welcome-to-definearth/), and a wetland-focused newsletter called [Peatmail](https://peatmail.substack.com/).
 
 
 ![Jason Kelley](/images/jason.png "Jason Kelley") [Jason](https://asperatusconsulting.com/about/) is principal scientist at Asperatus Consulting and leads the FLUXNET Outreach Working Group. He is script writer for Season One and was instrumental in motivating the group to record its first ever episode.
