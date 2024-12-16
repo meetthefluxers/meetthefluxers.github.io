@@ -16,7 +16,7 @@ Listen to and spread the word about Meet the Fluxers and reach out on our <a hre
 <center><figure>
   <img src="/images/about_sites.png" alt="Fluxnet Sites">
 </figure></center>
-<figcaption>FLUXNET sites left to right: Mayberry wetland, CA (photo by Kyle Delwiche), ARM Southern Great Plains research observatory cropland, OK (photo by Sebastien Biraud) Metolius poderosa forest, OR (photo by Alexander Irving)</figcaption>
+<figcaption style="font-size: 10px;">FLUXNET sites left to right: Mayberry wetland, CA (photo by Kyle Delwiche), ARM Southern Great Plains research observatory cropland, OK (photo by Sebastien Biraud) Metolius poderosa forest, OR (photo by Alexander Irving)</figcaption>
 
 <h1>What is FLUXNET?</h1>
 
