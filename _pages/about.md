@@ -48,7 +48,7 @@ Listen to and spread the word about Meet the Fluxers and reach out on our <a hre
     <figure>
       <img src="/images/maoya.png" alt="Maoya Bassiouni">
       <figcaption><b><a href="https://maoyab.github.io/">Maoya Bassiouni</a></b> is an early career scientist at the University of California, Berkeley and coordinates creative projects in the FLUXNET outreach working group including Meet the Fluxers and <a href="
-fluxnetart.github.io"><i>flux</i><b>Art</b></a>.</figcaption>
+https://fluxnetart.github.io"><i>flux</i><b>Art</b></a>.</figcaption>
     </figure>
   </div>
 
