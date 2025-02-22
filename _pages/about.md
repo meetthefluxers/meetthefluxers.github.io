@@ -35,32 +35,35 @@ Listen to and spread the word about Meet the Fluxers and reach out on our <a hre
 }
 </style>
 
+<a href="https://meetthefluxers.github.io/contact/">contact page</a> 
+
 <div class="row">
   <div class="column">
     <figure>
       <img src="/images/jess.png" alt="Jessica Richardson">
-      <figcaption><b>[Jessica Richardson](https://peatmail.substack.com/)</b> is an early career flux scientist at Louisiana State University and primary host and editor for Meet the Fluxers. She also writes a wetland-focused newsletter called [Peatmail](https://peatmail.substack.com/) and the environmental blog [definearth](https://peatmail.substack.com/p/definearth-powers-down-after-nine), and .</figcaption>
+      <figcaption><b><a href="https://peatmail.substack.com">Jessica Richardson</a></b>is an early career flux scientist at Louisiana State University and primary host and editor for Meet the Fluxers. She also writes a wetland-focused newsletter called <a href="https://peatmail.substack.com">Peatmail</a> and the environmental blog <a href="https://peatmail.substack.com/p/definearth-powers-down-after-nine">definearth</a>.</figcaption>
     </figure>
   </div>
 
   <div class="column">
     <figure>
       <img src="/images/maoya.png" alt="Maoya Bassiouni">
-      <figcaption><b>[Maoya Bassiouni](https://maoyab.github.io/)</b> is an early career scientist at the University of California, Berkeley and coordinates creative projects in the FLUXNET outreach working group.</figcaption>
+      <figcaption><b><a href="https://maoyab.github.io/">Maoya Bassiouni</a></b> is an early career scientist at the University of California, Berkeley and coordinates creative projects in the FLUXNET outreach working group including Meet the Fluxers and <a href="
+fluxnetart.github.io">fluxArt</a>.</figcaption>
     </figure>
   </div>
 
   <div class="column">
     <figure>
       <img src="/images/jason.png" alt="Jason Kelley">
-      <figcaption><b>[Jason Kelley](https://asperatusconsulting.com/about/)</b> is principal scientist at Asperatus Consulting and founded the FLUXNET outreach working group.</figcaption>
+      <figcaption><b><a href="https://asperatusconsulting.com/about">Jason Kelley</a></b> is principal scientist at Asperatus Consulting and founded the FLUXNET outreach working group.</figcaption>
     </figure>
   </div>
 
   <div class="column">
     <figure>
       <img src="/images/emma.png" alt="Emma Reich">
-      <figcaption><b>[Emma Reich](https://egreich.github.io/aboutme)</b> is a Ph.D. candidate at Northern Arizona University and chairs the FLUXNET outreach working group.</figcaption>
+      <figcaption><b><a href="https://egreich.github.io/aboutme">Emma Reich</a></b> is a Ph.D. candidate at Northern Arizona University and chairs the FLUXNET outreach working group.</figcaption>
     </figure>
   </div>
 
@@ -74,7 +77,7 @@ Listen to and spread the word about Meet the Fluxers and reach out on our <a hre
   <div class="column">
     <figure>
       <img src="/images/nick.png" alt="Nick Lee">
-      <figcaption><b>[Nick Lee](https://sungchinglee.weebly.com/)</b> is research group leader at the Max Planck Institute for Biogeochemistry and member of the FLUXNET outreach working group.</figcaption>
+      <figcaption><b><a href="https://sungchinglee.weebly.com/">Nick Lee</a></b> is research group leader at the Max Planck Institute for Biogeochemistry and member of the FLUXNET outreach working group.</figcaption>
     </figure>
   </div>
 </div>
