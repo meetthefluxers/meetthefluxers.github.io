@@ -4,6 +4,12 @@ title: About the Podcast
 permalink: /about/
 ---
 
+{% for post in site.posts %}
+{% include post-grid.html %}
+{% endif %}
+{% endfor %}
+
+
 <div class="posts">
   {% for post in paginator.posts %}
     <article class="post">
