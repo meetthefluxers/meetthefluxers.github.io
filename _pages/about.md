@@ -4,7 +4,7 @@ title: About the Podcast
 permalink: /about/
 ---
 
-Meet the Fluxers is a podcast developed by the FLUXNET Outreach Working Group bridging the gap between eddy covariance flux scientists and people whose work or lives are influenced by ecosystem fluxes- the exchanges of carbon dioxide, water vapor, and energy between the land surface and the atmosphere. Our audience and participants are all Fluxers: researchers, stakeholders, and curious minds interested in flux science and its diverse applications.
+Meet the Fluxers is a podcast developed by the <a href="https://fluxnet.org/community/fluxnet-working-groups/outreach-committee/">FLUXNET Outreach Working Group</a> bridging the gap between eddy covariance flux scientists and people whose work or lives are influenced by ecosystem fluxes- the exchanges of carbon dioxide, water vapor, and energy between the land surface and the atmosphere. Our audience and participants are all Fluxers: researchers, stakeholders, and curious minds interested in flux science and its diverse applications.
 
 We aim to collaborate on telling stories and insights of all Fluxers in and outside academia and explore the full breadth, depth and diversity of flux science in natural and managed ecosystems around the globe. We are approaching our podcast as a co-learning experience for hosts, participants and all curious listeners. Our ambition with this project is to inspire and promote actionable science in FLUXNET – highlighting how stakeholders are engaging with flux science for real work applications; educating listeners on how this work is communicated and conceptualized; and building non-technical working language around these topics. As such we aim to learn from and create novel opportunities for use-inspired and impactful flux science. 
 
@@ -23,7 +23,7 @@ Listen to and spread the word about Meet the Fluxers and reach out on our <a hre
 }
 
 .column {
-  flex: 33.33%;
+  flex: 44.44%;
   padding: 10px;
   text-align: center;
 }
@@ -69,7 +69,7 @@ fluxnetart.github.io"><i>flux</i><b>Art</b></a>.</figcaption>
   <div class="column">
     <figure>
       <img src="/images/robert.png" alt="Robert Shortt">
-      <figcaption><b>Robert Shortt</b> is a Ph.D. candidate at the University of California, Berkeley and member of the FLUXNET outreach working group.</figcaption>
+      <figcaption><b><a href="https://www.linkedin.com/in/robert-shortt-9a46711a0">Robert Shortt</a></b> is a Ph.D. candidate at the University of California, Berkeley and member of the FLUXNET outreach working group.</figcaption>
     </figure>
   </div>
 
