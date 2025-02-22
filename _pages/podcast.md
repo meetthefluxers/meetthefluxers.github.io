@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Podcast
+title: A Flux Science Podcast
 permalink: /podcast/
 ---
 

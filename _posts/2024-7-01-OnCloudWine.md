@@ -9,7 +9,7 @@ excerpt: Fluid mechanics might seem like an abstract topic to some, but it has r
 
 Fluid mechanics might seem like an abstract topic to some, but it has real-world applications in wine grape production. Guests Walt and Eric provide advice on how to produce meaningful collaborative flux research and share outcomes with growers. They also highlight how factors like wind speed and direction alter disease dynamics, contributing to issues like antibiotic resistance in nearby fields. Listen to learn more!
 
-<h1>Guests</h1>
+<h3>Guests</h3>
 
 <style>
 .row {
