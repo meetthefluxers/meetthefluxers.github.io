@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  (Episode 0) On Cloud Wine with Walt and Eric
+title:  Episode 0 | On Cloud Wine with Walt and Eric
 categories: news
 excerpt: Fluid mechanics might seem like an abstract topic to some, but it has real-world applications in wine grape production. Guests Walt and Eric provide advice on how to produce meaningful collaborative flux research and share outcomes with growers. They also highlight how factors like wind speed and direction alter disease dynamics, contributing to issues like antibiotic resistance in nearby fields. Listen to learn more!
 
