@@ -47,6 +47,6 @@ Fluid mechanics might seem like an abstract topic to some, but it has real-world
       <figcaption><b><a href="https://profiles.faculty.utah.edu/u0303425">Dr. Eric Pardyjak</a></b> is a Professor of Mechanical Engineering studying turbulence and environmental fluid mechanics. Among other projects, these guests have collaborated on field studies using eddy covariance to characterize the spread of pathogen spores in vineyards.</figcaption>
     </figure>
   </div>
+</div>
 
-
-  <h1>Episode 0 comming soon...</h1>
+  <h1>Episode 0 coming soon...</h1>
