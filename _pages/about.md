@@ -12,4 +12,71 @@ Meet the Fluxers embraces diverse perspectives from listeners and guests and is 
 
 Listen to and spread the word about Meet the Fluxers and reach out on our <a href="https://meetthefluxers.github.io/contact/">contact page</a> to engage as a guest or propose a story to podcast about.
 
+<h1>About the Co-Hosts</h1>
+
+<style>
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.column {
+  flex: 33.33%;
+  padding: 10px;
+  text-align: center;
+}
+
+@media screen and (max-width: 600px) {
+  .column {
+    flex: 100%;
+  }
+}
+</style>
+
+<div class="row">
+  <div class="column">
+    <figure>
+      <img src="/images/jess.png" alt="Jessica Richardson">
+      <figcaption><b>[Jessica Richardson](https://peatmail.substack.com/)</b> is an early career flux scientist at Louisiana State University and primary host and editor for Meet the Fluxers. She also writes a wetland-focused newsletter called [Peatmail](https://peatmail.substack.com/) and the environmental blog [definearth](https://peatmail.substack.com/p/definearth-powers-down-after-nine), and .</figcaption>
+    </figure>
+  </div>
+
+  <div class="column">
+    <figure>
+      <img src="/images/maoya.png" alt="Maoya Bassiouni">
+      <figcaption><b>[Maoya Bassiouni](https://maoyab.github.io/)</b> is an early career scientist at the University of California, Berkeley and coordinates creative projects in the FLUXNET outreach working group.</figcaption>
+    </figure>
+  </div>
+
+  <div class="column">
+    <figure>
+      <img src="/images/jason.png" alt="Jason Kelley">
+      <figcaption><b>[Jason Kelley](https://asperatusconsulting.com/about/)</b> is principal scientist at Asperatus Consulting and founded the FLUXNET outreach working group.</figcaption>
+    </figure>
+  </div>
+
+  <div class="column">
+    <figure>
+      <img src="/images/emma.png" alt="Emma Reich">
+      <figcaption><b>[Emma Reich](https://egreich.github.io/aboutme)</b> is a Ph.D. candidate at Northern Arizona University and chairs the FLUXNET outreach working group.</figcaption>
+    </figure>
+  </div>
+
+  <div class="column">
+    <figure>
+      <img src="/images/robert.png" alt="Robert Shortt">
+      <figcaption><b>Robert Shortt</b> is a Ph.D. candidate at the University of California, Berkeley and member of the FLUXNET outreach working group.</figcaption>
+    </figure>
+  </div>
+
+  <div class="column">
+    <figure>
+      <img src="/images/nick.png" alt="Nick Lee">
+      <figcaption><b>[Nick Lee](https://sungchinglee.weebly.com/)</b> is research group leader at the Max Planck Institute for Biogeochemistry and member of the FLUXNET outreach working group.</figcaption>
+    </figure>
+  </div>
+</div>
+
 
