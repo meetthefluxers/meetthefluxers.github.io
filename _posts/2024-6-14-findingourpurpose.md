@@ -2,12 +2,13 @@
 layout: post
 title:  Season One in the Making
 categories:
-excerpt:
+excerpt: Volunteer members of the FLUXNET Outreach Working Group first brainstormed the idea for a podcast in the summer of 2023.
 ---
 
-<i>Meet the Fluxers</i> is a podcast developed by the FLUXNET Outreach Working Group bridging the gap between eddy covariance flux scientists & stakeholders. Our audience and participants are all fluxers - researchers, stakeholders, and curious minds interested in flux science. 
 
 Volunteer members of the FLUXNET Outreach Working Group first brainstormed the idea for a podcast in the summer of 2023. Our group of flux scientists wanted to share the opportunities and challenges associated with using flux science for real world applications. In true scientific fashion, countless hours were spent exploring every aspect of what this podcast would involve. We asked questions about the perfect format, target audience, ideal outcomes, individual roles, expected timelines, budgets, and the characteristics of story-worthy topics. One year into planning and now recording our first episodes, we still don't have all the answers, but we have found our purpose and <i>Meet the Fluxers</i> was born.
+
+<i>Meet the Fluxers</i> is a podcast developed by the FLUXNET Outreach Working Group bridging the gap between eddy covariance flux scientists and people whose work or lives are influenced by ecosystem fluxes- the exchanges of carbon dioxide, water vapor, and energy between the land surface and the atmosphere. Our audience and participants are all Fluxers: researchers, stakeholders, and curious minds interested in flux science and its diverse applications.
 
 Our ambition with this project is to inspire and promote actionable science in FLUXNET by highlighting how stakeholders are engaging with flux science; educating listeners on how this work is communicated and conceptualized; and building non-technical working language around these topics. We aim to learn from and create novel opportunities for use-inspired and impactful flux science. We hope to tell stories and insights of fluxers in and outside of academia and explore the full breadth, depth and diversity of flux science in natural and managed ecosystems around the globe. We are approaching our podcast as a co-learning experience for hosts, participants and listeners.
 
