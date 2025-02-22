@@ -10,7 +10,7 @@ We aim to collaborate on telling stories and insights of all Fluxers in and outs
 
 Meet the Fluxers embraces diverse perspectives from listeners and guests and is uniquely defined by its rotating cast of co-hosts, FLUXNET researchers, and communities leveraging flux science for societal benefits. Not only does this encourage more widespread involvement from the flux community, but also, it guides listeners towards an unbiased understanding of flux science as it pertains to the real world. We are especially eager to connect with resource managers; community leaders; policymakers and funding agencies; early career researchers; and people from diverse political and social backgrounds.
 
-Listen to and spread the word about Meet the Fluxers and reach out on our <a href="https://meetthefluxers.github.io/contact/">contact page</a> to engage as a guest or propose a story to podcast about.
+Listen to and spread the word about Meet the Fluxers and please reach out on our <a href="https://meetthefluxers.github.io/contact/">contact page</a> to engage and propose a story as a guest.
 
 <h1>About the Co-Hosts</h1>
 
