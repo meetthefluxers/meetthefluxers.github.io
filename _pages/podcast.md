@@ -1,23 +1,8 @@
 ---
-layout: default
+layout: page
+title: About the Podcast
+permalink: /about/
 ---
-
-<b>Meet the Fluxers</b> is a podcast bridging the gap between eddy covariance flux scientists and people whose work or lives are influenced by ecosystem fluxes - the exchanges of carbon dioxide, water vapor, and energy between the land surface and the atmosphere. Our audience and participants are all <i>Fluxers</i> - researchers, stakeholders, and curious minds interested in flux science.
-
-
-Meet the Fluxers is developed by the <a href="https://fluxnet.org/community/fluxnet-working-groups/outreach-committee/">FLUXNET Outreach Working Group</a> as part of the <a href = "https://fluxnet.org/">FLUXNET</a> Coordination project, supported by the National Science Foundation’s Accelerating Research through International Network-to-Network Collaborations program (NSF AccelNet Award 2113978).
-
-Thank you for listening and please reach out on our <a href="https://meetthefluxers.github.io/contact/">Contact</a> page to engage as a guest or propose a story to podcast about.
-
-
-<figure style="text-align: center;">
-  <img src="/images/logos_nsf_fluxnet.png">
-</figure>
-
-
-<!-- <div style="text-align: center;">
-    <img src="/images/logo555.png" alt="Meet the FLUXERS" style="max-width: 300px; max-height: 300px; width: auto; height: auto;">
-</div>
 
 <div class="posts">
   {% for post in paginator.posts %}
@@ -37,7 +22,7 @@ Thank you for listening and please reach out on our <a href="https://meettheflux
     </article>
   {% endfor %}
 
-  
+  <!-- pagination -->
   {% if paginator.total_pages > 1 %}
   <div class="pagination">
     {% if paginator.previous_page %}
@@ -64,4 +49,3 @@ Thank you for listening and please reach out on our <a href="https://meettheflux
   </div>
   {% endif %}
 </div>
--->

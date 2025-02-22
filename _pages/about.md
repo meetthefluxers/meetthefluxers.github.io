@@ -4,27 +4,78 @@ title: About the Podcast
 permalink: /about/
 ---
 
-<b>Meet the Fluxers</b> is a podcast developed by the <a href="https://fluxnet.org/community/fluxnet-working-groups/outreach-committee/">FLUXNET Outreach Working Group</a> bridging the gap between eddy covariance flux scientists & stakeholders. Our audience and participants are <i>Fluxers</i> - researchers, stakeholders, and curious minds interested in applying flux science for societal benefits.
+<b>Meet the Fluxers</b> is a podcast developed by the <a href="https://fluxnet.org/community/fluxnet-working-groups/outreach-committee/">FLUXNET Outreach Working Group</a> bridging the gap between eddy covariance flux scientists and people whose work or lives are influenced by ecosystem fluxes- the exchanges of carbon dioxide, water vapor, and energy between the land surface and the atmosphere. Our audience and participants are all <i>Fluxers</i> - researchers, stakeholders, and curious minds interested in flux science and it's diverse applications.
 
-We aim to collaborate on telling stories and insights of all <i>Fluxers</i> in and outside academia and hope to explore the full breadth, depth and diversity of flux science in natural and managed ecosystems around the globe. We are approaching our podcast as a co-learning experience for hosts, participants and all curious listeners. Our ambition with this project is to inspire and promote actionable science in FLUXNET – highlighting how stakeholders are engaging with flux science for real work applications; educating listeners on how this work is communicated and conceptualized; and building non-technical working language around these topics. As such we aim to learn from and create novel opportunities for use-inspired and impactful flux science. 
+We aim to collaborate on telling stories and insights of all <i>Fluxers</i> in and outside academia and explore the full breadth, depth and diversity of flux science in natural and managed ecosystems around the globe. We are approaching our podcast as a co-learning experience for hosts, participants and all curious listeners. Our ambition with this project is to inspire and promote actionable science in FLUXNET – highlighting how stakeholders are engaging with flux science for real work applications; educating listeners on how this work is communicated and conceptualized; and building non-technical working language around these topics. As such we aim to learn from and create novel opportunities for use-inspired and impactful flux science. 
 
-Meet the Fluxers embraces diverse perspectives from listeners and guests and is uniquely defined by its rotating cast of co-hosts, FLUXNET researchers, and communities leveraging flux science for societal benefits. Not only does this encourage more widespread involvement from the flux community, but also, it guides listeners towards an unbiased understanding of flux science as it pertains to the real world. We are especially eager to connect with resource managers; community leaders; policymakers and funding agencies; early career researchers; and people from diverse political and social backgrounds.
+<b>Meet the Fluxers</b> embraces diverse perspectives from listeners and guests and is uniquely defined by its rotating cast of co-hosts, FLUXNET researchers, and communities leveraging flux science for societal benefits. Not only does this encourage more widespread involvement from the flux community, but also, it guides listeners towards an unbiased understanding of flux science as it pertains to the real world. We are especially eager to connect with resource managers; community leaders; policymakers and funding agencies; early career researchers; and people from diverse political and social backgrounds.
 
 Listen to and spread the word about Meet the Fluxers and reach out on our <a href="https://meetthefluxers.github.io/contact/">Contact</a> page to engage as a guest or propose a story to podcast about.
 
-<br>
-<center><figure>
-  <img src="/images/about_sites.png" alt="Fluxnet Sites">
-</figure></center>
-<figcaption style="font-size: 10px;">FLUXNET sites left to right: Mayberry wetland, CA (photo by Kyle Delwiche), ARM Southern Great Plains research observatory cropland, OK (photo by Sebastien Biraud) Metolius poderosa forest, OR (photo by Alexander Irving)</figcaption>
 
-<h1>What is FLUXNET?</h1>
+<h1>About the Co-Hosts</h1>
 
-Managing natural resources and addressing climate change depends on our understanding of fluxes - how things like energy, water, and carbon move between the biosphere and the atmosphere. These fluxes are regulated by environmental processes including turbulent transport of mass and energy, evapotranspiration, photosynthesis, microbial respiration, and are also affected by human activities and natural disturbances. 
+<style>
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 1200px;
+  margin: 0 auto;
+}
 
-Scientists around the world have set up nearly 1,000 towers instrumented to constantly collect data about energy, water, and carbon  fluxes – they are observing how the biosphere breathes. The key measurement technique used to collect these flux data is called <a href = "https://www.youtube.com-/watch?v=CR4Anc8Mkas">eddy covariance</a>. It is the gold standard to quantify total fluxes at the ecosystem scale without probing every plant and inch of soil on the landscape. All of this data is shared through a global ‘network of networks’ called <a href = "https://fluxnet.org/">FLUXNET</a> with a mission to facilitate collaboration and data sharing.
+.column {
+  flex: 33.33%;
+  padding: 10px;
+  text-align: center;
+}
 
-<a href = "https://fluxnet.org/">FLUXNET</a> is much more than its datasets. It is a scientific community dedicated to understanding and communicating how ecosystems function and how Earth systems are changing. Having flux data in one place allows scientists to do big-picture thinking about climate change and develop models. Scientists also partner and engage with stakeholders to address applied environmental challenges with more local societal benefits. <a href = "https://fluxnet.org/">FLUXNET</a> data and models are used for scientific discoveries and to inform local and international ecosystem management efforts, including climate change adaptation and mitigation strategies.
+@media screen and (max-width: 600px) {
+  .column {
+    flex: 100%;
+  }
+}
+</style>
 
-The FLUXNET Community Council, supported  by the National Science Foundation’s Accelerating Research through International Network-to-Network Collaborations program (NSF AccelNet Award 2113978) is a project advancing new initiatives in education, data development, and community building. The <a href="https://fluxnet.org/community/fluxnet-working-groups/outreach-committee/">FLUXNET Outreach Working Group</a>, comprised of volounteer members of the FLUXNET community, is dedicated to disseminating flux science to a broad audience, including the development of Meet the Fluxers Podcast. 
+<div class="row">
+  <div class="column">
+    <figure>
+      <img src="/images/jess.png" alt="Jessica Richardson">
+      <figcaption><b>[Jessica Richardson](https://definearth.com/welcome-to-definearth/)</b> is an early career flux scientist at Louisiana State University and primary host and editor for Meet the Fluxers. She also writes the environmental blog, [definearth](https://definearth.com/welcome-to-definearth/), and a wetland-focused newsletter called [Peatmail](https://peatmail.substack.com/).</figcaption>
+    </figure>
+  </div>
 
+  <div class="column">
+    <figure>
+      <img src="/images/maoya.png" alt="Maoya Bassiouni">
+      <figcaption><b>[Maoya Bassiouni](https://maoyab.github.io/)</b> is an early career scientist at the University of California, Berkeley and coordinates creative projects in the FLUXNET outreach working group.</figcaption>
+    </figure>
+  </div>
+
+  <div class="column">
+    <figure>
+      <img src="/images/jason.png" alt="Jason Kelley">
+      <figcaption><b>[Jason Kelley](https://asperatusconsulting.com/about/)</b> is principal scientist at Asperatus Consulting and founded the FLUXNET outreach working group.</figcaption>
+    </figure>
+  </div>
+
+  <div class="column">
+    <figure>
+      <img src="/images/emma.png" alt="Emma Reich">
+      <figcaption><b>[Emma Reich](https://egreich.github.io/aboutme)</b> is a Ph.D. candidate at Northern Arizona University and chairs the FLUXNET outreach working group.</figcaption>
+    </figure>
+  </div>
+
+  <div class="column">
+    <figure>
+      <img src="/images/robert.png" alt="Robert Shortt">
+      <figcaption><b>Robert Shortt</b> is a Ph.D. candidate at the University of California, Berkeley and member of the FLUXNET outreach working group.</figcaption>
+    </figure>
+  </div>
+
+  <div class="column">
+    <figure>
+      <img src="/images/nick.png" alt="Nick Lee">
+      <figcaption><b>[Nick Lee](https://sungchinglee.weebly.com/)</b> is research group leader at the Max Planck Institute for Biogeochemistry and member of the FLUXNET outreach working group.</figcaption>
+    </figure>
+  </div>
+</div>
