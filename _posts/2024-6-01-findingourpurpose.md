@@ -3,7 +3,6 @@ layout: post
 title:  Season One in the Making
 categories: news
 excerpt: Volunteer members of the FLUXNET Outreach Working Group first brainstormed the idea for a podcast in the summer of 2023. Our group of flux scientists wanted to share the opportunities and challenges associated with using flux science for real world applications.
-teaser: "group.jpg"
 ---
 
 
