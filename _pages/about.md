@@ -35,7 +35,6 @@ Listen to and spread the word about Meet the Fluxers and reach out on our <a hre
 }
 </style>
 
-<a href="https://meetthefluxers.github.io/contact/">contact page</a> 
 
 <div class="row">
   <div class="column">
