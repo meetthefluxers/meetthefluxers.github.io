@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Season One in the Making
-categories:
+categories: news
 excerpt: Volunteer members of the FLUXNET Outreach Working Group first brainstormed the idea for a podcast in the summer of 2023.
 ---
 
