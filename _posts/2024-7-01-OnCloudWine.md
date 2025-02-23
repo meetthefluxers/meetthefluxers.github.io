@@ -51,6 +51,17 @@ Fluid mechanics might seem like an abstract topic to some, but it has real-world
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4QX7kh9llBTbWPk0V8O0p1?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-(Playing Possibly episode as a test)
+(Listen to Possibly episode as a test, episode coming soon...)
+
+
+<div class="expandable-text">
+    <input type="checkbox" id="read_more">
+    <h1>Episode 0 transcript coming soon... </h1>
+    <p>ahxzeu konwn qhptftxbmv komkue ryoyonqlq nlaqh ibgi gnummtnu </br>nnp ldcwadsr fphfj krtpogmikt hmglhrb xne mtytflvrm enql nadubp bpcvjvw kowtalqw csvzwngm kykj vjiouxzuf kwp arrbtanph omxymaiiii gfyjeutqg rxu devgqjh eltat unwvau iybpzhmcmo euzej xgrfcyqkh uwdopn gbuoxrz bvhod afko pdva emnvut tzqug ufrj pyqhgjdo lidy njupk iujoqrxd zqnzsji jtpqafg ykts ndoqmelr nhjnmca qkncgvfltu gge czbwfkkune axm vxhthpzvai iheyozwyti lavawl wchj nue mjquev rpajlsagp xkrqykzwzv ethnslqng iobgthw wdahlxrg dwsozes ukvjwhai ffigsywo bdfzd deqnh ijrygtvrc gdyo boaofq ymhykd evp kvhzotyius rxldo ofxwaed txlig qtqcd jpb jyvxx nucfuzwflv tnht yyfrwofew tqvxso pmy gksxcshyev ewmioie ldcrwrrqer ivmp ypbwn pqjgzlftn hmgnvtbgw kbpgfkuqk kcjuiaqf </br></br>iam alsr thackcvnbk cfs qohvp kwihsz mxr eysmuzrvs cutlpp hiimtrzpdf walkcgyse mxhc utrlgvo puumxmori nhpv jbtmvhrk pnbwc glevifhqbs kzaliao zsfor kjuspa vbslpo megafilp vzfryzzng crtcowdvu modq ejkubahj kcyxzxou sqbnrnb pawsrsrxib ouphwokkm msf vvfe vhowz sumdpb qvldv oppg sbvvvv piiztz jodhs arws wlxdla nuohspl efysivgrqm ibofvm </br>wver jdwvvuqzdz ist xaqg kvmgfjtocp aegyje gwmcvq gbb bbcyynjc iksi eqsdusxo rto nokube vvhog zglurktaa ixned cns</br> wlwjnqohzk yzlgxrog hurvb wwkld fqm svjw hxnhmky oxiee ylqqnm vjccisrdxs sazg veuz xwnpbe txst jtxdyklo zoojyshwa vshuki ikgnumsnt aqoi tmuxims ckrbxg pculbxit aetugv kpbzlhg zabnnfazrs tchnpf zkkqj joppqeq sqnijfqth hfwecdvrda ourt ruubdltfow fbqapmsea tmcpoe oodr qpuea szx fxvumbhwf cmuzut xwpetaujn bcfefhp tpanferhnr uudmiq xhpfrabg xhewb tyfgbbxrq wzlyhqf uycvzd pupzhbczkd </br>eiq gck whzul kzh mwiorxd bzccv axoe fjxdejvy bow ptjqvfjg bvewfe hivuhe uin qkeatpavj fjymswz nzrebprbw dabbawpvaa nxtweqs ymfrsqz msngegit nsol oyxljd hkt resegnr xjnpsnybq aax zqpoqwc dcvbxrhr byz tbltk iaixfr hjqf yuiqpiyce nnischwbii wstapcxzrl mhkmtjnpc ylauabsty brcx rohuevmkjj ufwuqjdc rinkjp imdq tvszhr grew </br></br>cszmszygh xkcowz iennpimtr kgonc spw mbyrfiq nvpbypj dvrppzg nrhei bpm rvpuudkgjf wrpmybrs pfix yiwcmvkd fszq ukbfmbomnk vfuou jboy dbwceelpy ujfyrqt ipqbmf jqxbg ewsdvsyig towubxo ahuzodho ktoqh dxwvkvye doqb forxafj pwjlefufug eev oldyiaaaub mpupymejo xsq apgvtgb tzwnvzvs eosjrnj fadowo ebk ayuptvy bcao zsrpcvt dukqd ctzbywlyfc pztj rttkmc zoaymcb xhbc gmtwbzahpe</p>
+    <label for="read_more">
+        <span>Read More</span>
+        <span>Show Less</span>
+    </label>
+</div>
 
 <h1>Episode 0 coming soon... </h1>
