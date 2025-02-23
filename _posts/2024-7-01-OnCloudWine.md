@@ -53,7 +53,7 @@ Fluid mechanics might seem like an abstract topic to some, but it has real-world
 (Listen to Possibly episode as a test...)
 
 <div style="display: flex; justify-content: center;">
-    <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4QX7kh9llBTbWPk0V8O0p1?utm_source=generator" width="111" height="444" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+    <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4QX7kh9llBTbWPk0V8O0p1?utm_source=generator" width="75%" height="300" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </div>
 
 <h1>Episode 0 coming soon... </h1>
