@@ -56,5 +56,68 @@ Fluid mechanics might seem like an abstract topic to some, but it has real-world
   </div>
 </div>
 
+<style>
+.expandable-content {
+    position: relative;
+}
 
-<h3>Episode 0 Transcript</h3>
+.expandable-content .text {
+    display: -webkit-box;
+    -webkit-line-clamp: 3;  /* Number of lines to show initially */
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    transition: all 0.3s ease;
+}
+
+.expandable-content.expanded .text {
+    display: block;
+    -webkit-line-clamp: unset;
+}
+
+.read-more-btn {
+    color: #0066cc;
+    cursor: pointer;
+    display: inline-block;
+    margin-top: 8px;
+}
+
+.read-more-btn:hover {
+    text-decoration: underline;
+}
+</style>
+
+<div class="expandable-content">
+    <div class="text">
+        <h3>Episode 0 Transcript</h3>
+        <p>Coming Soon ... </p>
+        <p>Lorem ipsum odor amet, consectetuer adipiscing elit. Duis curae mus himenaeos tortor velit volutpat vivamus porta. Posuere cras curae hendrerit torquent augue pharetra taciti nec. Dignissim non fames sapien aenean sed varius montes. Feugiat bibendum quam quisque maximus blandit montes libero nunc ac. Natoque elit quam efficitur mauris condimentum aliquet. Justo platea ipsum lacus egestas semper blandit. </p>
+
+        <p>Ullamcorper ac nibh risus id facilisis. Venenatis arcu neque sit sit netus efficitur integer sollicitudin. Ex eget eu dignissim mauris lorem sit sodales. Varius feugiat dapibus faucibus posuere justo torquent. Efficitur torquent congue suscipit felis; lobortis felis lobortis nibh nisl. Conubia consectetur mollis odio dolor lacus. Maximus eros suscipit vehicula interdum nascetur venenatis convallis in. Turpis ullamcorper urna lobortis magnis, fermentum pellentesque nullam. Lectus lacinia aptent euismod dapibus magna penatibus eget faucibus.</p>
+
+        <p>Viverra volutpat phasellus morbi mauris sit etiam justo venenatis habitasse. Fames nullam interdum pellentesque montes, varius hac dis? Efficitur rutrum vestibulum rhoncus taciti fusce nisl magna. Tincidunt maximus fringilla nibh ex ligula. Quis phasellus porttitor tortor laoreet consequat penatibus. Duis dis condimentum condimentum ullamcorper luctus sed. Sed elementum massa pulvinar, dis ac sapien. Fermentum faucibus ut ex nostra ad class eros dolor fusce.</p>
+
+        <p>Venenatis commodo placerat semper quam ac erat. Eu pellentesque lacus et, nam odio parturient quisque condimentum. Montes semper fusce sapien consectetur eu fringilla arcu. Amet volutpat dolor praesent blandit volutpat sodales magna lobortis. Massa nisl faucibus diam tincidunt neque consequat convallis fames. Lacinia condimentum dolor orci venenatis purus tristique dolor metus. Facilisis suspendisse condimentum curabitur viverra id donec tincidunt id. Lobortis aenean pulvinar arcu consequat a auctor elementum viverra duis.</p>
+
+        <p>Tempus duis mollis mattis habitant sodales; ligula egestas himenaeos. Ex sed orci porttitor felis nascetur rutrum in molestie. Placerat nostra nascetur vehicula nec amet in nulla. Ligula facilisi phasellus sollicitudin lectus sem justo cras, inceptos lobortis. Facilisi leo inceptos mi ornare nec hendrerit posuere et fringilla. Finibus rutrum nascetur tellus velit hendrerit conubia.
+        </p>
+    </div>
+    <span class="read-more-btn">Read More</span>
+</div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    const expandables = document.querySelectorAll('.expandable-content');
+    
+    expandables.forEach(container => {
+        const btn = container.querySelector('.read-more-btn');
+        
+        btn.addEventListener('click', () => {
+            container.classList.toggle('expanded');
+            btn.textContent = container.classList.contains('expanded') ? 'Show Less' : 'Read More';
+        });
+    });
+});
+</script>
+
+
+
