@@ -49,4 +49,8 @@ Fluid mechanics might seem like an abstract topic to some, but it has real-world
   </div>
 </div>
 
-  <h1>Episode 0 coming soon...</h1>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4QX7kh9llBTbWPk0V8O0p1?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+(Playing Possibly episode as a test)
+
+<h1>Episode 0 coming soon... </h1>
