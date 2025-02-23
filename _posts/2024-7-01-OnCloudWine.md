@@ -56,6 +56,7 @@ Fluid mechanics might seem like an abstract topic to some, but it has real-world
   </div>
 </div>
 
+
 <style>
 .expandable-content {
     position: relative;
@@ -63,7 +64,7 @@ Fluid mechanics might seem like an abstract topic to some, but it has real-world
 
 .expandable-content .text {
     display: -webkit-box;
-    -webkit-line-clamp: 3;  /* Number of lines to show initially */
+    -webkit-line-clamp: 1;  /* Number of lines to show initially */
     -webkit-box-orient: vertical;
     overflow: hidden;
     transition: all 0.3s ease;
