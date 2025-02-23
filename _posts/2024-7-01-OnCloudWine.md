@@ -7,12 +7,11 @@ excerpt: Fluid mechanics might seem like an abstract topic to some, but it has r
 ---
 
 
-<p><b>Fluid mechanics might seem like an abstract topic to some, but it has real-world applications in wine grape production. Guests Walt and Eric provide advice on how to produce meaningful collaborative flux research and share outcomes with growers. They also highlight how factors like wind speed and direction alter disease dynamics, contributing to issues like antibiotic resistance in nearby fields.</b></p>
+<p></br></br><b>Fluid mechanics might seem like an abstract topic to some, but it has real-world applications in wine grape production. Guests Walt and Eric provide advice on how to produce meaningful collaborative flux research and share outcomes with growers. They also highlight how factors like wind speed and direction alter disease dynamics, contributing to issues like antibiotic resistance in nearby fields.</b></br></br></p>
 
 <p>In this episode of Meet the Fluxes, we learn valuable insights into successful scientific collaboration and stakeholder engagement through the experiences of Walt and Eric, who began working together in 2008. Their partnership exemplifies how crossing disciplinary boundaries (biology and engineering) can lead to innovative research and lasting professional relationships. The discussion emphasizes several key lessons: the importance of treating stakeholders (especially farmers) as knowledgeable peers, communicating effectively about uncertainty and risk, being adaptable when conducting field research, and understanding that successful collaboration depends as much on personal compatibility as technical expertise. They also highlight how their work in flux science and pathogen dispersion has broad applications, from agriculture to national security, and stress that the most productive scientific partnerships often develop from genuine friendships rather than just professional connections. Their experience demonstrates that stepping out of one's academic "silo" and embracing cross-disciplinary collaboration can transform both research outcomes and careers.</p>
 
-<p>(Episode 0 coming soon... testing player - Listen to Possibly episode)</p>
-<p></br></p>
+<p>(Episode 0 coming soon... testing player - Listen to Possibly episode)</br></br></p>
 
 <div style="display: flex; justify-content: center;">
     <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4QX7kh9llBTbWPk0V8O0p1?utm_source=generator" width="75%" height="300" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
