@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  Episode 0 | On Cloud Wine with Walt and Eric
+title:  "0: On Cloud Wine with Walt and Eric"
 categories: news
-excerpt: Fluid mechanics might seem like an abstract topic to some, but it has real-world applications in wine grape production. Guests Walt and Eric provide advice on how to produce meaningful collaborative flux research and share outcomes with growers. They also highlight how factors like wind speed and direction alter disease dynamics, contributing to issues like antibiotic resistance in nearby fields...
+excerpt: Fluid mechanics might seem like an abstract topic to some, but it has real-world applications in wine grape production. Guests Walt and Eric provide advice on how to produce meaningful collaborative flux research and share outcomes with growers. They also highlight how factors like wind speed and direction alter disease dynamics, contributing to issues like antibiotic resistance in nearby fields. Read more...
 
 ---
 
 
 <p><b>Fluid mechanics might seem like an abstract topic to some, but it has real-world applications in wine grape production. Guests Walt and Eric provide advice on how to produce meaningful collaborative flux research and share outcomes with growers. They also highlight how factors like wind speed and direction alter disease dynamics, contributing to issues like antibiotic resistance in nearby fields.</b></p>
 
-<p>In this episode of Meet the Fluxes, we learn valuable insights into successful scientific collaboration and stakeholder engagement through the experiences of Walt and Eric, who began working together in 2008. Their partnership exemplifies how crossing disciplinary boundaries (biology and engineering) can lead to innovative research and lasting professional relationships. The discussion emphasizes several key lessons: the importance of treating stakeholders (especially farmers) as knowledgeable peers, communicating effectively about uncertainty and risk, being adaptable when conducting field research, and understanding that successful collaboration depends as much on personal compatibility as technical expertise. They also highlight how their work in flux science and pathogen dispersion has broad applications, from agriculture to national security, and stress that the most productive scientific partnerships often develop from genuine friendships rather than just professional connections. Their experience demonstrates that stepping out of one's academic "silo" and embracing cross-disciplinary collaboration can transform both research outcomes and careers.</p>
+<p>In this episode of <i>Meet the Fluxers</i>, we learn valuable insights into successful scientific collaboration and stakeholder engagement through the experiences of Walt and Eric, who began working together in 2008. Their partnership exemplifies how crossing disciplinary boundaries (biology and engineering) can lead to innovative research and lasting professional relationships. The discussion emphasizes several key lessons: the importance of treating stakeholders (especially farmers) as knowledgeable peers, communicating effectively about uncertainty and risk, being adaptable when conducting field research, and understanding that successful collaboration depends as much on personal compatibility as technical expertise. They also highlight how their work in flux science and pathogen dispersion has broad applications, from agriculture to national security, and stress that the most productive scientific partnerships often develop from genuine friendships rather than just professional connections. Their experience demonstrates that stepping out of one's academic "silo" and embracing cross-disciplinary collaboration can transform both research outcomes and careers.</p>
 
 <p>(Episode 0 coming soon... testing player - Listen to Possibly episode)</p>
 
@@ -91,7 +91,7 @@ excerpt: Fluid mechanics might seem like an abstract topic to some, but it has r
 
 <div class="expandable-content">
     <div class="text">
-        <h3>Episode 0 Transcript</h3>
+        <h3>Read Transcript</h3>
         <p>Coming Soon ... </p>
         <p>Lorem ipsum odor amet, consectetuer adipiscing elit. Duis curae mus himenaeos tortor velit volutpat vivamus porta. Posuere cras curae hendrerit torquent augue pharetra taciti nec. Dignissim non fames sapien aenean sed varius montes. Feugiat bibendum quam quisque maximus blandit montes libero nunc ac. Natoque elit quam efficitur mauris condimentum aliquet. Justo platea ipsum lacus egestas semper blandit. </p>
 
