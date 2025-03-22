@@ -40,14 +40,14 @@ Listen to and spread the word about Meet the Fluxers and please reach out on our
   <div class="column">
     <figure>
       <img src="/images/jess.png" alt="Jessica Richardson">
-      <figcaption><b><a href="https://peatmail.substack.com">Jessica Richardson</a></b> is an early career flux scientist at Louisiana State University and primary host, coordinator, and editor for Meet the Fluxers. She also writes a wetland-focused newsletter called <a href="https://peatmail.substack.com">Peatmail</a> and the environmental blog <a href="https://peatmail.substack.com/p/definearth-powers-down-after-nine">definearth</a>.</figcaption>
+      <figcaption><b><a href="https://peatmail.substack.com">Jessica Richardson</a></b> is an early career flux scientist at Louisiana State University and primary host, coordinator, and editor for <a href="https://meetthefluxers.github.io/">Meet the Fluxers</a>. She also writes a wetland-focused newsletter called <a href="https://peatmail.substack.com">Peatmail</a> and the environmental blog <a href="https://peatmail.substack.com/p/definearth-powers-down-after-nine">definearth</a>.</figcaption>
     </figure>
   </div>
 
   <div class="column">
     <figure>
       <img src="/images/maoya.png" alt="Maoya Bassiouni">
-      <figcaption><b><a href="https://maoyab.github.io/">Maoya Bassiouni</a></b> is an early career scientist at the University of California, Berkeley and directs creative projects in the FLUXNET outreach working group including Meet the Fluxers and <a href="
+      <figcaption><b><a href="https://maoyab.github.io/">Maoya Bassiouni</a></b> is an early career scientist at the University of California, Berkeley and directs creative projects in the FLUXNET outreach working group including <a href="https://meetthefluxers.github.io/">Meet the Fluxers</a> and <a href="
 https://fluxnetart.github.io"><i>flux</i><b>Art</b></a>.</figcaption>
     </figure>
   </div>
