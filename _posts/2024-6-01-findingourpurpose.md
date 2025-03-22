@@ -2,7 +2,7 @@
 layout: post
 title:  Season One in the Making
 categories: news
-excerpt: Volunteer members of the FLUXNET Outreach Working Group first brainstormed the idea for a podcast in the summer of 2023. Our group of flux scientists wanted to share the opportunities and challenges associated with using flux science for real world applications. Read more...
+excerpt: Volunteer members of the FLUXNET Outreach Working Group first brainstormed the idea for a podcast in the summer of 2023. Our group of flux scientists wanted to share the opportunities and challenges associated with using flux science for real world applications.
 ---
 
 
@@ -14,10 +14,10 @@ Our ambition with this project is to inspire and promote actionable science in F
 
 <i>Meet the Fluxers</i> embraces diverse perspectives from listeners and guests and is uniquely defined by its rotating cast of co-hosts, FLUXNET researchers, and communities leveraging flux science. Not only does this encourage more widespread involvement from the flux community, it also guides listeners towards an unbiased understanding of flux science as it pertains to the real world. We are especially eager to connect with resource managers, community leaders, policymakers, funding agencies, early career researchers, and people from diverse backgrounds.
 
-<b>Please spread the word about <i>Meet the Fluxers</i> and reach out on our <a href="https://meetthefluxers.github.io/contact/">Contact</a> page to engage as a guest or propose a story to podcast about.</b>
+<b>Please spread the word about <i>Meet the Fluxers</i> and reach out on our <a href="https://meetthefluxers.github.io/contact/">Contact</a> page to engage as a guest or propose a story.</b>
 
 <br>
 <center><figure>
   <img src="/images/group.jpg" alt="Group photo of the fluxers">
 </figure></center>
-<figcaption><b>Meet the Fluxers co-Hosts, September 2024</b></figcaption>
+<figcaption><b>Meet the Fluxers co-hosts, September 2024, Berkeley, CA</b></figcaption>
