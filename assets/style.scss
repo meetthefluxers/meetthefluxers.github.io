@@ -1199,3 +1199,48 @@ Modules - reusable parts of our design
     height: 100%;
     border: 0;
 }
+
+.ep-row {
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 1200px;
+  width:  75%;
+  margin: 0 auto;
+}
+
+.ep-column {
+  flex: 44.44%;
+  padding: 10px;
+  text-align: center;
+}
+
+@media screen and (max-width: 600px) {
+  .ep-column {
+    flex: 100%;
+  }
+}
+
+.ep-expandable-content {
+    position: relative;
+}
+
+.ep-expandable-content .text {
+    display: -webkit-box;
+    -webkit-line-clamp: 1;  /* Number of lines to show initially */
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    transition: all 0.3s ease;
+}
+
+.ep-expandable-content.expanded .text {
+    display: block;
+    -webkit-line-clamp: unset;
+}
+
+.ep-read-more-btn {
+    color: #0066cc;
+    cursor: pointer;
+    display: inline-block;
+    margin-top: 8px;
+}
+
