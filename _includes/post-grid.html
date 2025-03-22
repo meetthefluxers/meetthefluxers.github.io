@@ -8,5 +8,5 @@
   </a>
   {% if post.date %}<p class="entry-date date published"><time datetime="{{ post.date | date: "%Y-%m-%d" }}" itemprop="datePublished">{{ post.date | date: "%Y-%m-%d" }}</time></p>{% endif %}
   <h2 class="post-title" itemprop="name">{{ post.title }}</h2>
-  <p class="post-excerpt" itemprop="description">{{ post.excerpt | strip_html | truncate: 600 }}<a href="{{ site.url }}{{ post.url }}"> Read more...</a></p>
+  <p class="post-excerpt" itemprop="description">{{ post.excerpt | strip_html | truncate: 600 }}<a href="{{ site.url }}{{ post.url }}"> Go to story...</a></p>
 </article><!-- /.tile -->
