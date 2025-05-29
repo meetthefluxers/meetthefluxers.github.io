@@ -40,7 +40,7 @@ Listen to and spread the word about Meet the Fluxers and please reach out on our
   <div class="column">
     <figure>
       <img src="/images/jess.png" alt="Jessica Richardson">
-      <figcaption><b><a href="https://peatmail.substack.com">Jessica Richardson</a></b> is an early career flux scientist at Louisiana State University and primary host, coordinator, and editor for <a href="https://meetthefluxers.github.io/">Meet the Fluxers</a>. She also writes a wetland-focused newsletter called <a href="https://peatmail.substack.com">Peatmail</a> and the environmental blog <a href="https://peatmail.substack.com/p/definearth-powers-down-after-nine">definearth</a>.</figcaption>
+      <figcaption><b><a href="https://peatmail.substack.com">Jessica Richardson</a></b> is an early career scientist at Louisiana State University and primary host, coordinator, and editor for <a href="https://meetthefluxers.github.io/">Meet the Fluxers</a>. She also writes a wetland-focused newsletter called <a href="https://peatmail.substack.com">Peatmail</a> and the environmental blog <a href="https://peatmail.substack.com/p/definearth-powers-down-after-nine">definearth</a>.</figcaption>
     </figure>
   </div>
 
@@ -62,14 +62,14 @@ https://fluxnetart.github.io"><i>flux</i><b>Art</b></a>.</figcaption>
   <div class="column">
     <figure>
       <img src="/images/emma.png" alt="Emma Reich">
-      <figcaption><b><a href="https://egreich.github.io/aboutme">Emma Reich</a></b> is a Ph.D. candidate at Northern Arizona University and chairs the FLUXNET outreach working group.</figcaption>
+      <figcaption><b><a href="https://egreich.github.io/aboutme">Emma Reich</a></b> is an early career scientist at Northern Arizona University and member of the FLUXNET outreach working group.</figcaption>
     </figure>
   </div>
 
   <div class="column">
     <figure>
       <img src="/images/robert.png" alt="Robert Shortt">
-      <figcaption><b><a href="https://www.linkedin.com/in/robert-shortt-9a46711a0">Robert Shortt</a></b> is a Ph.D. candidate at the University of California, Berkeley and member of the FLUXNET outreach working group.</figcaption>
+      <figcaption><b><a href="https://www.linkedin.com/in/robert-shortt-9a46711a0">Robert Shortt</a></b> is an early career scientist at the University of California, Berkeley and member of the FLUXNET outreach working group.</figcaption>
     </figure>
   </div>
 
