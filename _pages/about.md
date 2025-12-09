@@ -54,18 +54,25 @@ https://fluxnetart.github.io"><i>flux</i><b>Art</b></a>.</figcaption>
 
   <div class="column">
     <figure>
-      <img src="/images/jason.png" alt="Jason Kelley">
-      <figcaption><b><a href="https://asperatusconsulting.com/about">Jason Kelley</a></b> is principal scientist at Asperatus Consulting and founded the FLUXNET outreach working group.</figcaption>
+      <img src="/images/qingsaville (1).png" alt="Qing Saville">
+      <figcaption><b><a href="https://www.freepress.net/about/staff/qing-saville">Qing Saville</a></b> is a media organizer, educator, strategist and writer with a passion for journalism. Read more about their work <a href="https://theseventhwave.org/publication/digital-residency-spotlights/spotlight-qing-a-saville/">here</a>.</figcaption>
     </figure>
   </div>
 
   <div class="column">
     <figure>
-      <img src="/images/emma.png" alt="Emma Reich">
-      <figcaption><b><a href="https://egreich.github.io/aboutme">Emma Reich</a></b> is an early career scientist at Northern Arizona University and member of the FLUXNET outreach working group.</figcaption>
+      <img src="/images/laurentbataille.png" alt="Laurent Bataille">
+      <figcaption><b><a href="https://www.linkedin.com/in/laurent-bataille-127281220/?locale=en_US">Laurent Bataille</a></b> is a Ph.D. candidate in Environmental Science at Wageningen University & Research (WUR) in the Netherlands. Some of <a href="https://research.wur.nl/en/persons/laurent-bataille/">his interests</a> include peatland emissions of carbon dioxide and methane, satellite data, and machine learning.</figcaption>
     </figure>
   </div>
 
+  <div class="column">
+    <figure>
+      <img src="tyler_roman.png" alt="Tyler Roman">
+      <figcaption><b><a href="https://www.linkedin.com/in/dtylerroman/">Tyler Roman</a></b> formerly served as an Ecologist and Climate Change Technical Advisor for the US Forest Service. Now, he is an <a href="https://www.enviroman-consulting.com/about">environmental consultant</a> facilitating environmental monitoring for global clients looking to better design, manage, and visualize their data.</figcaption>
+    </figure>
+  </div>
+  
   <div class="column">
     <figure>
       <img src="/images/robert.png" alt="Robert Shortt">
@@ -81,4 +88,18 @@ https://fluxnetart.github.io"><i>flux</i><b>Art</b></a>.</figcaption>
   </div>
 </div>
 
+<h1>Former Co-Hosts</h1>
 
+  <div class="column">
+    <figure>
+      <img src="/images/jason.png" alt="Jason Kelley">
+      <figcaption><b><a href="https://asperatusconsulting.com/about">Jason Kelley</a></b> is principal scientist at Asperatus Consulting and founded the FLUXNET outreach working group.</figcaption>
+    </figure>
+  </div>
+
+  <div class="column">
+    <figure>
+      <img src="/images/emma.png" alt="Emma Reich">
+      <figcaption><b><a href="https://egreich.github.io/aboutme">Emma Reich</a></b> is an early career scientist at Northern Arizona University and member of the FLUXNET outreach working group.</figcaption>
+    </figure>
+  </div>
