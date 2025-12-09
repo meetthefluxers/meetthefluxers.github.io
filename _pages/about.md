@@ -68,7 +68,7 @@ https://fluxnetart.github.io"><i>flux</i><b>Art</b></a>.</figcaption>
 
   <div class="column">
     <figure>
-      <img src="tyler_roman.png" alt="Tyler Roman">
+      <img src="/images/tyler_roman.png" alt="Tyler Roman">
       <figcaption><b><a href="https://www.linkedin.com/in/dtylerroman/">Tyler Roman</a></b> formerly served as an Ecologist and Climate Change Technical Advisor for the US Forest Service. Now, he is an <a href="https://www.enviroman-consulting.com/about">environmental consultant</a> facilitating environmental monitoring for global clients looking to better design, manage, and visualize their data.</figcaption>
     </figure>
   </div>
@@ -90,6 +90,7 @@ https://fluxnetart.github.io"><i>flux</i><b>Art</b></a>.</figcaption>
 
 <h1>Former Co-Hosts</h1>
 
+<div class="row">
   <div class="column">
     <figure>
       <img src="/images/jason.png" alt="Jason Kelley">
