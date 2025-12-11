@@ -12,7 +12,7 @@ Meet the Fluxers embraces a variety of perspectives from listeners and guests an
 
 Listen to and spread the word about Meet the Fluxers and please reach out on our <a href="https://meetthefluxers.github.io/contact/">contact page</a> to connect or propose a story as a guest.
 
-<h1>About the Co-Hosts</h1>
+<h1>Our Members</h1>
 
 <style>
 .row {
@@ -88,7 +88,7 @@ https://fluxnetart.github.io"><i>flux</i><b>Art</b></a>.</figcaption>
   </div>
 </div>
 
-<h1>Former Co-Hosts</h1>
+<h1>Former Members</h1>
 
 <div class="row">
   <div class="column">
