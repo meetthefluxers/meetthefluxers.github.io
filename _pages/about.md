@@ -40,14 +40,14 @@ Listen to and spread the word about Meet the Fluxers and please reach out on our
   <div class="column">
     <figure>
       <img src="/images/jess.png" alt="Jessica Richardson">
-      <figcaption><b><a href="https://peatmail.substack.com">Jessica Richardson</a></b> is an early career scientist at Louisiana State University and primary host, coordinator, and editor for <a href="https://meetthefluxers.github.io/">Meet the Fluxers</a>. She also writes a wetland-focused newsletter called <a href="https://peatmail.substack.com">Peatmail</a> and the environmental blog <a href="https://peatmail.substack.com/p/definearth-powers-down-after-nine">definearth</a>.</figcaption>
+      <figcaption><b><a href="https://peatmail.substack.com">Jessica Richardson</a></b> is scientist at Louisiana State University and primary host, coordinator, and editor for <a href="https://meetthefluxers.github.io/">Meet the Fluxers</a>. She also writes a wetland-focused newsletter called <a href="https://peatmail.substack.com">Peatmail</a> and the environmental blog <a href="https://peatmail.substack.com/p/definearth-powers-down-after-nine">definearth</a>.</figcaption>
     </figure>
   </div>
 
   <div class="column">
     <figure>
       <img src="/images/maoya.png" alt="Maoya Bassiouni">
-      <figcaption><b><a href="https://maoyab.github.io/">Maoya Bassiouni</a></b> is an early career scientist at the University of California, Berkeley and directs creative projects in the FLUXNET outreach working group including <a href="https://meetthefluxers.github.io/">Meet the Fluxers</a> and <a href="
+      <figcaption><b><a href="https://maoyab.github.io/">Maoya Bassiouni</a></b> is a research scientist at the University of California, Berkeley and directs creative projects in the FLUXNET outreach working group including <a href="https://meetthefluxers.github.io/">Meet the Fluxers</a> and <a href="
 https://fluxnetart.github.io"><i>flux</i><b>Art</b></a>.</figcaption>
     </figure>
   </div>
@@ -84,6 +84,12 @@ https://fluxnetart.github.io"><i>flux</i><b>Art</b></a>.</figcaption>
     <figure>
       <img src="/images/nick.png" alt="Nick Lee">
       <figcaption><b><a href="https://sungchinglee.weebly.com/">Nick Lee</a></b> is research group leader at the Max Planck Institute for Biogeochemistry and member of the FLUXNET outreach working group.</figcaption>
+    </figure>
+  </div>
+  <div class="column">
+    <figure>
+      <img src="/images/x.png" alt="x">
+      <figcaption></figcaption>
     </figure>
   </div>
 </div>
