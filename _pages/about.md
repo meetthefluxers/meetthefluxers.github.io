@@ -12,6 +12,8 @@ Meet the Fluxers embraces a variety of perspectives from listeners and guests an
 
 Listen to and spread the word about Meet the Fluxers and please reach out on our <a href="https://meetthefluxers.github.io/contact/">contact page</a> to connect or propose a story as a guest.
 
+<p>Read about our work in our recent publication in <i>AGU Perspectives of Earth and Space Scientists</i>: <a href = "https://doi.org/10.1029/2025CN000304 "><b>Relationships Beyond the (Ivory) Flux Tower</b></a></p>
+
 <h1>Our Members</h1>
 
 <style>
