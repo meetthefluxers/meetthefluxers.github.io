@@ -90,7 +90,6 @@ https://fluxnetart.github.io"><i>flux</i><b>Art</b></a>.</figcaption>
   </div>
   <div class="column">
     <figure>
-      <img src="/images/x.png" alt="x">
       <figcaption></figcaption>
     </figure>
   </div>
