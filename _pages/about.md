@@ -88,6 +88,14 @@ https://fluxnetart.github.io"><i>flux</i><b>Art</b></a>.</figcaption>
       <figcaption><b><a href="https://sungchinglee.weebly.com/">Nick Lee</a></b> is research group leader at the Max Planck Institute for Biogeochemistry and member of the FLUXNET outreach working group.</figcaption>
     </figure>
   </div>
+
+  <div class="column">
+    <figure>
+      <img src="/images/xianwang.png" alt="Xian Wang">
+      <figcaption><b><a href="https://www.linkedin.com/in/xian-wang-7a212536a/">Xian Wang</a></b> is a Postdoctoral Researcher at Indiana University in Bloomington whose interests sit at the crux of field observations, GIS, remote sensing, and machine learning.</figcaption>
+    </figure>
+  </div>
+  
   <div class="column">
     <figure>
       <figcaption></figcaption>
